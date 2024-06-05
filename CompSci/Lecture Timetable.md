@@ -1,3 +1,0 @@
-| Lecture           |
-| Foundations |
-|Discrete Math|
