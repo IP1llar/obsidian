@@ -102,4 +102,9 @@ Error: This expression has type bool but an expression was expected of type int
 8. What is the effect of the comparison operators like `<` and `>` on alphabetic values of type `char`?
 	- `'p' < 'q'` -> `true`
 	- `'q' < 'p'` -> `false`
-		These are evaluated in terms 
+		These are evaluated in terms of ASCII value
+	What is the effect of the comparison operators on the booleans, `true` and `false`?
+	- `true < false` -> `false`
+	- `false < true` -> `true`
+	- `true < true` -> `false`
+	- `false < false` -> `false`
