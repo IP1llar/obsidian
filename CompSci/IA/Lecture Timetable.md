@@ -1,8 +1,8 @@
 | Lecture          | Progress       |
 | :--------------- | -------------- |
-| a - Foundations  | OCaml: page 23 |
+| a - Foundations  | OCaml: page 45 |
 | a - DigElec      |                |
-| a - Databases    |                |
+| a - Databases    | 1.4.4          |
 | b - OCaml        |                |
 | b - DiscMath     |                |
 | b - OOProg       |                |
